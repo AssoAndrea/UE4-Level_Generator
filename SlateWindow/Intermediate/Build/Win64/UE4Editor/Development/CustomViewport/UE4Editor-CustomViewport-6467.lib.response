@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CustomViewport-6467.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Project\GeotechImport\Intermediate\Build\Win64\GeotechImportEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Unreal Project\GeotechImport\Plugins\CustomViewport\Intermediate\Build\Win64\UE4Editor\Development\CustomViewport\Module.CustomViewport.cpp.obj"
+"C:\Unreal Project\GeotechImport\Plugins\CustomViewport\Intermediate\Build\Win64\UE4Editor\Development\CustomViewport\Default.rc2.res"
+/OUT:"C:\Unreal Project\GeotechImport\Plugins\CustomViewport\Intermediate\Build\Win64\UE4Editor\Development\CustomViewport\UE4Editor-CustomViewport-6467.lib"

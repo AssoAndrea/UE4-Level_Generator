@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProceduralWorld-9542.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Project\GeotechImport\Intermediate\Build\Win64\GeotechImportEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Project\GeotechImport\Plugins\ProceduralWorld\Intermediate\Build\Win64\UE4Editor\Development\ProceduralWorld\ProceduralWorld.cpp.obj"
+"C:\Unreal Project\GeotechImport\Plugins\ProceduralWorld\Intermediate\Build\Win64\UE4Editor\Development\ProceduralWorld\Default.rc2.res"
+/OUT:"C:\Unreal Project\GeotechImport\Plugins\ProceduralWorld\Intermediate\Build\Win64\UE4Editor\Development\ProceduralWorld\UE4Editor-ProceduralWorld-9542.lib"

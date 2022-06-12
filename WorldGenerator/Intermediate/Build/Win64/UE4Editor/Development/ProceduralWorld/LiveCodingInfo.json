@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProceduralWorld.cpp.obj": [
+			"PluginSettings.cpp.obj",
+			"ProceduralWorld.cpp.obj"
+		],
+		"Module.ProceduralWorld.gen.cpp.obj": [
+			"PluginSettings.gen.cpp.obj",
+			"ProceduralWorld.init.gen.cpp.obj"
+		]
+	}
+}

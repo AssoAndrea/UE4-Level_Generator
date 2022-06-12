@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomViewport.cpp.obj": [
+			"CustomViewport.cpp.obj",
+			"EditorCustomClient.cpp.obj",
+			"EditorViewportTest.cpp.obj"
+		]
+	}
+}
